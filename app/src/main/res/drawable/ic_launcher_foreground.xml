@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Typewriter hammer head -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M48,28 L60,28 L64,36 L44,36 Z" />
+    <!-- Hammer stem -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M51,36 L57,36 L55,68 L53,68 Z" />
+    <!-- Impact Ink Strike / Staccato Cadence Lines -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M34,74 L74,74 L74,78 L34,78 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M40,82 L68,82 L68,85 L40,85 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M46,89 L62,89 L62,91 L46,91 Z" />
+    <!-- Mechanical pivot node -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,68 A4,4 0 1,0 54,76 A4,4 0 1,0 54,68 Z" />
+</vector>

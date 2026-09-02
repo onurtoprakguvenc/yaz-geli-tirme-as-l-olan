@@ -1,0 +1,6 @@
+{
+  "name": "Staccato",
+  "description": "Adaptive narrative workbench and anti-cliché calibration engine with dual-track real-time telemetry and strict constraint enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
